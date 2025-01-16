@@ -1,3 +1,5 @@
+In AWS, create Instance with g4dn 30bath /hr
+
 <img src="http://developer.download.nvidia.com/notebooks/dlsw-notebooks/riva_all_tutorials-readme/nvidia_logo.png" style="width: 90px; float: right;">
 
 # Riva Speech Skills Tutorials
